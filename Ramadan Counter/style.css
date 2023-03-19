@@ -1,0 +1,13 @@
+#days, #hours, #mins, #secs{
+    display: table-caption;
+}
+.midcomp{
+    background-image: url(Images/bckimg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+    padding-top: 15px;
+    padding-bottom: 124px;
+}
