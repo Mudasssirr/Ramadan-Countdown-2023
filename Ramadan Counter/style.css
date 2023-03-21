@@ -1,6 +1,14 @@
 #days, #hours, #mins, #secs{
     display: table-caption;
 }
+@media only screen and (max-width: 500px){
+    #days, #hours, #mins, #secs, h1{
+        color: white !important;
+    }
+    .midcomp{
+        background-size: contain;
+    }
+}
 .midcomp{
     background-image: url(Images/bckimg2.png);
     background-repeat: no-repeat;
